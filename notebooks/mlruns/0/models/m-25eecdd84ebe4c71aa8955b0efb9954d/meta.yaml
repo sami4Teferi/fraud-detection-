@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/models/m-25eecdd84ebe4c71aa8955b0efb9954d/artifacts
+creation_timestamp: 1753015064624
+experiment_id: '0'
+last_updated_timestamp: 1753015068799
+model_id: m-25eecdd84ebe4c71aa8955b0efb9954d
+model_type: null
+name: random_forest_model_fraud
+source_run_id: 8491d11e75964cec89a3372135090a95
+status: 2
+status_message: null
