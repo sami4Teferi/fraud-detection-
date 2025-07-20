@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/f04dbeb01ee44d47a09253ab182d92a7/artifacts
+end_time: 1753015257651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f04dbeb01ee44d47a09253ab182d92a7
+run_name: Decision Tree - Fraud Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753015252726
+status: 3
+tags: []
+user_id: SAMI

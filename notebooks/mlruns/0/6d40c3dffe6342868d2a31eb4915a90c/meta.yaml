@@ -1,5 +1,5 @@
 artifact_uri: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/6d40c3dffe6342868d2a31eb4915a90c/artifacts
-end_time: null
+end_time: 1753015234965
 entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
@@ -9,6 +9,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1753015230808
-status: 1
+status: 3
 tags: []
 user_id: SAMI

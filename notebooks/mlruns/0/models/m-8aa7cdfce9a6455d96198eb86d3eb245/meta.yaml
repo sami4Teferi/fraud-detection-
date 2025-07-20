@@ -1,11 +1,10 @@
 artifact_location: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/models/m-8aa7cdfce9a6455d96198eb86d3eb245/artifacts
 creation_timestamp: 1753015231101
 experiment_id: '0'
-last_updated_timestamp: 1753015231101
-lifecycle_stage: active
+last_updated_timestamp: 1753015234949
 model_id: m-8aa7cdfce9a6455d96198eb86d3eb245
 model_type: null
 name: decision_tree_model_fraud
 source_run_id: 6d40c3dffe6342868d2a31eb4915a90c
-status: 1
+status: 2
 status_message: null
