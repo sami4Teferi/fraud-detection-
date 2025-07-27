@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/ac049df06e874075aa60061da050928c/artifacts
+end_time: 1753015329509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac049df06e874075aa60061da050928c
+run_name: Random Forest - Fraud Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753015321261
+status: 3
+tags: []
+user_id: SAMI

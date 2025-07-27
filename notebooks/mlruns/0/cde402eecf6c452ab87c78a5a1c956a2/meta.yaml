@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/cde402eecf6c452ab87c78a5a1c956a2/artifacts
+end_time: 1753015080811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cde402eecf6c452ab87c78a5a1c956a2
+run_name: Gradient Boosting - Fraud Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753015068839
+status: 3
+tags: []
+user_id: SAMI

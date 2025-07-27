@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/models/m-6781e2ea24ae477bb43694e84c218816/artifacts
+creation_timestamp: 1753015424749
+experiment_id: '0'
+last_updated_timestamp: 1753015428083
+model_id: m-6781e2ea24ae477bb43694e84c218816
+model_type: null
+name: mlp_model_fraud
+source_run_id: c27cb7301f0b41479c8959ca8f067214
+status: 2
+status_message: null

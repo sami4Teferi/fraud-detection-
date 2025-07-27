@@ -1,0 +1,45 @@
+artifact_path: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/models/m-fb1a29323bbf494a9e534da96e93288d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-fb1a29323bbf494a9e534da96e93288d
+model_size_bytes: 4732
+model_uuid: m-fb1a29323bbf494a9e534da96e93288d
+prompts: null
+run_id: 67815a0c65144f79b48f7503d58c89a6
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "user_id", "required": true}, {"type": "double",
+    "name": "purchase_value", "required": true}, {"type": "double", "name": "age",
+    "required": true}, {"type": "double", "name": "hour_of_day", "required": true},
+    {"type": "double", "name": "day_of_week", "required": true}, {"type": "double",
+    "name": "purchase_delay", "required": true}, {"type": "double", "name": "user_transaction_frequency",
+    "required": true}, {"type": "double", "name": "device_transaction_frequency",
+    "required": true}, {"type": "double", "name": "user_transaction_velocity", "required":
+    true}, {"type": "double", "name": "source_Direct", "required": true}, {"type":
+    "double", "name": "source_SEO", "required": true}, {"type": "double", "name":
+    "browser_FireFox", "required": true}, {"type": "double", "name": "browser_IE",
+    "required": true}, {"type": "double", "name": "browser_Opera", "required": true},
+    {"type": "double", "name": "browser_Safari", "required": true}, {"type": "double",
+    "name": "sex_M", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-20 12:40:48.121488'

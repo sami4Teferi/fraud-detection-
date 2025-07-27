@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/models/m-fb1a29323bbf494a9e534da96e93288d/artifacts
+creation_timestamp: 1753015248069
+experiment_id: '0'
+last_updated_timestamp: 1753015252653
+model_id: m-fb1a29323bbf494a9e534da96e93288d
+model_type: null
+name: logistic_model_fraud
+source_run_id: 67815a0c65144f79b48f7503d58c89a6
+status: 2
+status_message: null

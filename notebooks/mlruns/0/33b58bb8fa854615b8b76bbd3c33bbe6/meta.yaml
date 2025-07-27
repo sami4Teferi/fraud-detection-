@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/33b58bb8fa854615b8b76bbd3c33bbe6/artifacts
+end_time: 1753015057782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33b58bb8fa854615b8b76bbd3c33bbe6
+run_name: Logistic Regression - Fraud Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753015051150
+status: 3
+tags: []
+user_id: SAMI

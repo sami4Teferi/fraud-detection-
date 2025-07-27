@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/models/m-513c47b560364902bccd545759ac333e/artifacts
+creation_timestamp: 1753015288813
+experiment_id: '0'
+last_updated_timestamp: 1753015292716
+model_id: m-513c47b560364902bccd545759ac333e
+model_type: null
+name: gradient_boosting_model_fraud
+source_run_id: 41376ae1b6cd4b07899979ae30e92ce5
+status: 2
+status_message: null

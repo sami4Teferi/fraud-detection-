@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/c27cb7301f0b41479c8959ca8f067214/artifacts
+end_time: 1753015428099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c27cb7301f0b41479c8959ca8f067214
+run_name: MLP - Fraud Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753015355514
+status: 3
+tags: []
+user_id: SAMI

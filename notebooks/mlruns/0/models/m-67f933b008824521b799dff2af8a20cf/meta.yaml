@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/HP/Desktop/10%20acd/week%208%20-9/notebooks/mlruns/0/models/m-67f933b008824521b799dff2af8a20cf/artifacts
+creation_timestamp: 1753015253053
+experiment_id: '0'
+last_updated_timestamp: 1753015257635
+model_id: m-67f933b008824521b799dff2af8a20cf
+model_type: null
+name: decision_tree_model_fraud
+source_run_id: f04dbeb01ee44d47a09253ab182d92a7
+status: 2
+status_message: null
